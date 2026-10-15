@@ -38,3 +38,9 @@
 .race-list-item small{font-size:10px}
 .replay-header h1{font-size:clamp(54px,13vw,75px);overflow-wrap:anywhere}
 }
+
+/* Creator signature, adapted to IONRUSH */
+.footer-credit{border-top:1px solid #839713;padding:16px clamp(20px,5vw,90px) 22px;font:500 11px/1.5 var(--mono);color:#243000}
+.footer-credit a{color:inherit;border-bottom:1px solid currentColor;text-decoration:none;transition:opacity .2s}
+.footer-credit a:hover{opacity:.6}
+.footer-credit a:focus-visible{outline:2px solid currentColor;outline-offset:4px}
