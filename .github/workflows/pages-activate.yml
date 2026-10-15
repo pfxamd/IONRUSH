@@ -1,0 +1,24 @@
+name: Request GitHub Pages build
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/pages-activate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+
+jobs:
+  activate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm Pages source and request publication
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          gh api "repos/$GH_REPO/pages" --jq '{status, build_type, source, html_url}'
+          gh api --method POST "repos/$GH_REPO/pages/builds" --jq '{status, url}'
