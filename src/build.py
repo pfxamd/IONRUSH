@@ -36,7 +36,7 @@ def num(n):return f'{n:02d}'
 def race_card(c,idx,prefix=''):
  slug,city,cname,date,full,pn,typ,km,corners,path,desc=c
  winner=driverdict[results[idx][0]]
- return f'''<a class="circuit-card" href="{prefix}circuits/{slug}/" style="--card-img:url('{prefix}assets/img/{pn:02d}-{ART[pn]}.webp')"><div class="card-top"><span>R{num(idx+1)} / {date}</span><span>↗</span></div><div class="card-bottom"><span class="eyebrow">{typ.upper()}</span><h3>{city}</h3><div class="card-under"><span>{cname}</span><span>{km:.2f} KM · {corners} TURNS</span></div></div></a>'''
+ return f'''<a class="circuit-card" href="{prefix}circuits/{slug}/"><img class="circuit-card-img" src="{prefix}assets/img/{pn:02d}-{ART[pn]}.webp" alt="{H(city)} — {H(cname)} racing circuit" loading="lazy" decoding="async"><div class="card-top"><span>R{num(idx+1)} / {date}</span><span>↗</span></div><div class="card-bottom"><span class="eyebrow">{typ.upper()}</span><h3 class="card-title-{'long' if len(city)>8 else ('short' if len(city)<7 else 'mid')}">{city}</h3><div class="card-under"><span>{cname}</span><span>{km:.2f} KM · {corners} TURNS</span></div></div></a>'''
 def team_card(t,prefix=''):
  slug,short,full,country,color,photo,line,desc=t
  return f'<a class="team-card" href="{prefix}teams/{slug}/" style="--team-accent:{color}"><div class="team-card-top"><span>{country.upper()}</span><span>↗</span></div><div class="team-visual">{img(photo,prefix,alt=full+" electric racing car")}</div><div class="team-card-foot"><h3>{short}</h3><span class="team-accent-line"></span></div></a>'
