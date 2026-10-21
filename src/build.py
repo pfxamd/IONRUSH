@@ -1,3 +1,16 @@
+# ┌──────────────────────────────────────────────┐
+# │                                              │
+# │  PFxamd                                      │
+# │  Ahmed                                       │
+# │                                              │
+# └──────────────────────────────────────────────┘
+# 
+# @project     IONRUSH — Morocco 2032
+# @author      Ahmed
+# @brand       PFxamd
+# @website     https://www.pfxamd.com
+# @repository  https://github.com/pfxamd/IONRUSH
+
 from __future__ import annotations
 import html,random,json,shutil
 from pathlib import Path
