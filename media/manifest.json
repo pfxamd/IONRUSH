@@ -1,0 +1,293 @@
+{
+  "sourceCommit": "3d41118dc96e18b228d9a3b72b3fdba9adf11e1d",
+  "prefix": "pfxamd/concepts/ionrush/",
+  "records": [
+    {
+      "source": "public/assets/favicon.svg",
+      "output": "assets/favicon.svg",
+      "key": "pfxamd/concepts/ionrush/favicon.svg",
+      "bytes": 185,
+      "sha256": "689ef456ab9b653808ff6576e6fb4d02ac5b85e309f5bcea7674f0771f31cc2a"
+    },
+    {
+      "source": "public/assets/img/01-championship-hero.webp",
+      "output": "assets/img/01-championship-hero.webp",
+      "key": "pfxamd/concepts/ionrush/01-championship-hero.webp",
+      "bytes": 145128,
+      "sha256": "8dee7ce82afd6c424112c4e41da4291d7bf4fa6eb4f13ed0caa62470ca578d7a"
+    },
+    {
+      "source": "public/assets/img/02-championship-trophy.webp",
+      "output": "assets/img/02-championship-trophy.webp",
+      "key": "pfxamd/concepts/ionrush/02-championship-trophy.webp",
+      "bytes": 73856,
+      "sha256": "53d6d57fffaf063998b4318d4ebae7b95ecda9393460c15fdb911b16cbfd1f0f"
+    },
+    {
+      "source": "public/assets/img/03-championship-paddock.webp",
+      "output": "assets/img/03-championship-paddock.webp",
+      "key": "pfxamd/concepts/ionrush/03-championship-paddock.webp",
+      "bytes": 202034,
+      "sha256": "ae4b06a81f4f65390f0149b22f87b091fb18468b3a96a00248fdec6e102cae63"
+    },
+    {
+      "source": "public/assets/img/04-pre-race-preparation.webp",
+      "output": "assets/img/04-pre-race-preparation.webp",
+      "key": "pfxamd/concepts/ionrush/04-pre-race-preparation.webp",
+      "bytes": 157708,
+      "sha256": "15cc843350cf990e1cbdf24bb98afa39f572159ca1297f9eac8aa569c10f96df"
+    },
+    {
+      "source": "public/assets/img/05-circuit-tangier.webp",
+      "output": "assets/img/05-circuit-tangier.webp",
+      "key": "pfxamd/concepts/ionrush/05-circuit-tangier.webp",
+      "bytes": 326232,
+      "sha256": "a52dba856ef4a028499cbad56999186b8201e47d56570b93e9ffde01f23b6d68"
+    },
+    {
+      "source": "public/assets/img/06-circuit-tetouan.webp",
+      "output": "assets/img/06-circuit-tetouan.webp",
+      "key": "pfxamd/concepts/ionrush/06-circuit-tetouan.webp",
+      "bytes": 420020,
+      "sha256": "517f66c93bd165acf8bc10f96662e1d3710c4501a1d8a369e69a137a2c2a356b"
+    },
+    {
+      "source": "public/assets/img/07-circuit-rabat.webp",
+      "output": "assets/img/07-circuit-rabat.webp",
+      "key": "pfxamd/concepts/ionrush/07-circuit-rabat.webp",
+      "bytes": 314680,
+      "sha256": "2be9b18d8a6e61ec49fe876557cf74212aad150f2ac8241aebc768265ee244ac"
+    },
+    {
+      "source": "public/assets/img/08-circuit-casablanca.webp",
+      "output": "assets/img/08-circuit-casablanca.webp",
+      "key": "pfxamd/concepts/ionrush/08-circuit-casablanca.webp",
+      "bytes": 256702,
+      "sha256": "0ecb70d286aecda0a167550ab6426c732db99ed849d59d9c3301a9da869af033"
+    },
+    {
+      "source": "public/assets/img/09-circuit-agadir.webp",
+      "output": "assets/img/09-circuit-agadir.webp",
+      "key": "pfxamd/concepts/ionrush/09-circuit-agadir.webp",
+      "bytes": 374258,
+      "sha256": "cdcdd17cee08024dc79faf58b1162ff408f636cdd85bc54c9d3b2314a6fb64c3"
+    },
+    {
+      "source": "public/assets/img/10-circuit-ouarzazate.webp",
+      "output": "assets/img/10-circuit-ouarzazate.webp",
+      "key": "pfxamd/concepts/ionrush/10-circuit-ouarzazate.webp",
+      "bytes": 341176,
+      "sha256": "4ea93285e7d68d0f99574df2557b00ceed3defaa209c40721ff33b9eb4075fb2"
+    },
+    {
+      "source": "public/assets/img/11-circuit-ifrane.webp",
+      "output": "assets/img/11-circuit-ifrane.webp",
+      "key": "pfxamd/concepts/ionrush/11-circuit-ifrane.webp",
+      "bytes": 364114,
+      "sha256": "030831823d15c2291f97aae43a3e89022996c2ab0a648a1e85519fbd78cb198c"
+    },
+    {
+      "source": "public/assets/img/12-circuit-marrakech.webp",
+      "output": "assets/img/12-circuit-marrakech.webp",
+      "key": "pfxamd/concepts/ionrush/12-circuit-marrakech.webp",
+      "bytes": 271472,
+      "sha256": "efbe9fbbef154932ef6f8f1a51f7dab26054823a35ea5fc35eeb5fcadd357791"
+    },
+    {
+      "source": "public/assets/img/13-team-atlas-volt.webp",
+      "output": "assets/img/13-team-atlas-volt.webp",
+      "key": "pfxamd/concepts/ionrush/13-team-atlas-volt.webp",
+      "bytes": 156092,
+      "sha256": "23bdecdfc1748568428b2b6c059b369243d150e597d5fe1d52ae3046b916cdbf"
+    },
+    {
+      "source": "public/assets/img/14-team-stratos.webp",
+      "output": "assets/img/14-team-stratos.webp",
+      "key": "pfxamd/concepts/ionrush/14-team-stratos.webp",
+      "bytes": 104876,
+      "sha256": "785a4aac7f0d6c2610473a20a938c310661f1706c1814d96d9c7d240f77cd8e6"
+    },
+    {
+      "source": "public/assets/img/15-team-kairo.webp",
+      "output": "assets/img/15-team-kairo.webp",
+      "key": "pfxamd/concepts/ionrush/15-team-kairo.webp",
+      "bytes": 154426,
+      "sha256": "e1364a59e1ad318d9722ee4a449f2080a41cca9a2714daccd597754bae4afa01"
+    },
+    {
+      "source": "public/assets/img/16-team-nordwerk.webp",
+      "output": "assets/img/16-team-nordwerk.webp",
+      "key": "pfxamd/concepts/ionrush/16-team-nordwerk.webp",
+      "bytes": 198420,
+      "sha256": "a6ee661e7ae68bd0dc8340ddb47f7b62bc824016eb26b04b89aeade66b3bf85f"
+    },
+    {
+      "source": "public/assets/img/17-team-solara.webp",
+      "output": "assets/img/17-team-solara.webp",
+      "key": "pfxamd/concepts/ionrush/17-team-solara.webp",
+      "bytes": 199664,
+      "sha256": "4a94f2c537ad6cc606166c9c5ed3e8a83598f9c73966723deef93c31d0e7c860"
+    },
+    {
+      "source": "public/assets/img/18-team-boreal.webp",
+      "output": "assets/img/18-team-boreal.webp",
+      "key": "pfxamd/concepts/ionrush/18-team-boreal.webp",
+      "bytes": 184324,
+      "sha256": "9f187115a2f16d13b0a0ab9c428a36ec8c97553649a81a5ac0585f1e7d76a596"
+    },
+    {
+      "source": "public/assets/img/19-team-emberline.webp",
+      "output": "assets/img/19-team-emberline.webp",
+      "key": "pfxamd/concepts/ionrush/19-team-emberline.webp",
+      "bytes": 165856,
+      "sha256": "7133a27e796c05e940dc6565f2186481eb29d8db3ecf723934a3784430baced9"
+    },
+    {
+      "source": "public/assets/img/20-team-mare-brasil.webp",
+      "output": "assets/img/20-team-mare-brasil.webp",
+      "key": "pfxamd/concepts/ionrush/20-team-mare-brasil.webp",
+      "bytes": 191408,
+      "sha256": "4c0d616d474577ee376f684cb256717b3e3586f6fcfe7d9eabf997e11032d07e"
+    },
+    {
+      "source": "public/assets/img/21-driver-yassine-el-mansouri.webp",
+      "output": "assets/img/21-driver-yassine-el-mansouri.webp",
+      "key": "pfxamd/concepts/ionrush/21-driver-yassine-el-mansouri.webp",
+      "bytes": 132116,
+      "sha256": "de0846d48b5042e346a310236fa3dc6daff7cbc21cd290c514370292e443d37b"
+    },
+    {
+      "source": "public/assets/img/22-driver-lina-benjelloun.webp",
+      "output": "assets/img/22-driver-lina-benjelloun.webp",
+      "key": "pfxamd/concepts/ionrush/22-driver-lina-benjelloun.webp",
+      "bytes": 130400,
+      "sha256": "dded280f788e9451d603253d37ae544c8289d13808d22bd77f4346e002882e0a"
+    },
+    {
+      "source": "public/assets/img/23-driver-isla-bennett.webp",
+      "output": "assets/img/23-driver-isla-bennett.webp",
+      "key": "pfxamd/concepts/ionrush/23-driver-isla-bennett.webp",
+      "bytes": 116044,
+      "sha256": "5a006defea952e6f4e18221fc4fb9bf97201c9e266acf7958a35a741cb5b1ee2"
+    },
+    {
+      "source": "public/assets/img/24-driver-theo-clarke.webp",
+      "output": "assets/img/24-driver-theo-clarke.webp",
+      "key": "pfxamd/concepts/ionrush/24-driver-theo-clarke.webp",
+      "bytes": 115722,
+      "sha256": "4aee826bd651c1b57cd97e4e2f497e2cbfcfeab89a066e35f92e974d0c17c996"
+    },
+    {
+      "source": "public/assets/img/25-driver-haruka-sato.webp",
+      "output": "assets/img/25-driver-haruka-sato.webp",
+      "key": "pfxamd/concepts/ionrush/25-driver-haruka-sato.webp",
+      "bytes": 133930,
+      "sha256": "9a674bd41f55f892c90b7bd1008354b88368bb30d14cd8002e889e6eca10eca8"
+    },
+    {
+      "source": "public/assets/img/26-driver-ren-nakamura.webp",
+      "output": "assets/img/26-driver-ren-nakamura.webp",
+      "key": "pfxamd/concepts/ionrush/26-driver-ren-nakamura.webp",
+      "bytes": 137278,
+      "sha256": "eb904c7d0c0e68cdcc88db50c43e8c17d4f0f42a818afbc4b3d39f2643b8aab2"
+    },
+    {
+      "source": "public/assets/img/27-driver-erik-falk.webp",
+      "output": "assets/img/27-driver-erik-falk.webp",
+      "key": "pfxamd/concepts/ionrush/27-driver-erik-falk.webp",
+      "bytes": 142662,
+      "sha256": "1410f2fc9093eeac14a85dc69438c6bac03ee00f8f7710ad51bcee8daedf456b"
+    },
+    {
+      "source": "public/assets/img/28-driver-mila-weiss.webp",
+      "output": "assets/img/28-driver-mila-weiss.webp",
+      "key": "pfxamd/concepts/ionrush/28-driver-mila-weiss.webp",
+      "bytes": 157050,
+      "sha256": "8577642067d8e4a51203282196fc921ef7793cf144ee4d12a66325ec3d98f1f6"
+    },
+    {
+      "source": "public/assets/img/29-driver-mateo-rivas.webp",
+      "output": "assets/img/29-driver-mateo-rivas.webp",
+      "key": "pfxamd/concepts/ionrush/29-driver-mateo-rivas.webp",
+      "bytes": 160862,
+      "sha256": "292e5c422ff02ab8aa5e897c5e2cd741d6ceb1e595ec61b26c38f67922039442"
+    },
+    {
+      "source": "public/assets/img/30-driver-alba-serrano.webp",
+      "output": "assets/img/30-driver-alba-serrano.webp",
+      "key": "pfxamd/concepts/ionrush/30-driver-alba-serrano.webp",
+      "bytes": 147432,
+      "sha256": "a46c178492a8067c4177368bccdf19c11ef22d4f19fb3241670ccace1ab17dd6"
+    },
+    {
+      "source": "public/assets/img/31-driver-ingrid-solheim.webp",
+      "output": "assets/img/31-driver-ingrid-solheim.webp",
+      "key": "pfxamd/concepts/ionrush/31-driver-ingrid-solheim.webp",
+      "bytes": 139818,
+      "sha256": "349f3271eefb29a0bce37eb1ea430c37156394643f11dcb71051a38f38eaa598"
+    },
+    {
+      "source": "public/assets/img/32-driver-sander-nilsen.webp",
+      "output": "assets/img/32-driver-sander-nilsen.webp",
+      "key": "pfxamd/concepts/ionrush/32-driver-sander-nilsen.webp",
+      "bytes": 127542,
+      "sha256": "7ea530bdd61bbfeb8de0aa4f88658ee5093cfdecb4844431ab43f5ee8c72a46a"
+    },
+    {
+      "source": "public/assets/img/33-driver-jordan-hayes.webp",
+      "output": "assets/img/33-driver-jordan-hayes.webp",
+      "key": "pfxamd/concepts/ionrush/33-driver-jordan-hayes.webp",
+      "bytes": 115928,
+      "sha256": "71137de93c6d9e72ab3a0abed5c9ec7e755c9624f9508b0f2028c1c354762787"
+    },
+    {
+      "source": "public/assets/img/34-driver-ethan-brooks.webp",
+      "output": "assets/img/34-driver-ethan-brooks.webp",
+      "key": "pfxamd/concepts/ionrush/34-driver-ethan-brooks.webp",
+      "bytes": 104604,
+      "sha256": "0bc6f4c46dcc202667457472fd0ee7507450df379a91d6273a765a8d7cfe5cec"
+    },
+    {
+      "source": "public/assets/img/35-driver-rafael-costa.webp",
+      "output": "assets/img/35-driver-rafael-costa.webp",
+      "key": "pfxamd/concepts/ionrush/35-driver-rafael-costa.webp",
+      "bytes": 122132,
+      "sha256": "0e09c23d53380431ebffa5de26714087374183bc6f27123f57a1fe4432b6d555"
+    },
+    {
+      "source": "public/assets/img/36-driver-camila-oliveira.webp",
+      "output": "assets/img/36-driver-camila-oliveira.webp",
+      "key": "pfxamd/concepts/ionrush/36-driver-camila-oliveira.webp",
+      "bytes": 143632,
+      "sha256": "d8301a06862bec6cdb3cfd0ecda06060758e010e7d0abf828427e30e0c48d0bd"
+    },
+    {
+      "source": "public/assets/img/37-tangier-race-start.webp",
+      "output": "assets/img/37-tangier-race-start.webp",
+      "key": "pfxamd/concepts/ionrush/37-tangier-race-start.webp",
+      "bytes": 190584,
+      "sha256": "503ea3f442ca72a354bb4ec460e674cbb0708f61e2fca1126f0876a08d5bb67f"
+    },
+    {
+      "source": "public/assets/img/38-casablanca-night-duel.webp",
+      "output": "assets/img/38-casablanca-night-duel.webp",
+      "key": "pfxamd/concepts/ionrush/38-casablanca-night-duel.webp",
+      "bytes": 186018,
+      "sha256": "d0ed5d5454de2d421e4b656800635c635241f2650b2deb4b135c8a966d4e39dc"
+    },
+    {
+      "source": "public/assets/img/39-marrakech-champion-podium.webp",
+      "output": "assets/img/39-marrakech-champion-podium.webp",
+      "key": "pfxamd/concepts/ionrush/39-marrakech-champion-podium.webp",
+      "bytes": 178390,
+      "sha256": "58fbc3f994d126be31b78937a79479bc7117f983f5fe19c93dea6bd9cc84df4f"
+    },
+    {
+      "source": "public/assets/img/40-technology-ir32-platform.webp",
+      "output": "assets/img/40-technology-ir32-platform.webp",
+      "key": "pfxamd/concepts/ionrush/40-technology-ir32-platform.webp",
+      "bytes": 273744,
+      "sha256": "baa3d5a12a1ddf28207fa78a1bc5c40d1cf31f36f3c361c69b56e4fde880f6c6"
+    }
+  ]
+}

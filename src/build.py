@@ -133,5 +133,7 @@ stories=banner('EVERY RACE<br>HAS A <em>STORY.</em>','Three moments that defined
 write('stories/index.html','Stories','Three defining fictional stories from the IONRUSH Morocco 2032 championship.',stories,'stories',4)
 # Static assets
 shutil.copytree(SRC/'assets',OUT/'assets',dirs_exist_ok=True)
+from publish_media import publish_media
+publish_media(ROOT)
 print('Built',len(list(OUT.rglob('index.html'))),'HTML pages')
 print('Driver leader:',[(d[1],pointmap[d[0]]) for d in sorted(DRIVERS,key=lambda d:-pointmap[d[0]])[:3]])
